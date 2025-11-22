@@ -1,5 +1,5 @@
 # Boolean Operators in Azure  
-A collection of enterprise ready examples demonstrating how boolean comparison operators drive cloud automation in Azure environments. The examples cover Python, PowerShell, Azure CLI, and Bicep, and are designed for use in FinOps governance, platform engineering, and CI and CD pipelines.
+A collection of enterprise ready examples demonstrating how boolean comparison operators drive cloud automation in Azure environments. The examples cover Python, PowerShell, Azure CLI, and Bicep, and are designed for use in FinOps governance, platform engineering, and CI/CD pipelines.
 
 ---
 
