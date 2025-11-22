@@ -1,0 +1,1 @@
+Boolean logic examples using Azure CLI and shell scripting.
